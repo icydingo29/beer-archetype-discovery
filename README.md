@@ -48,4 +48,4 @@ Rule Extraction: Adaptive Gaussian Membership Functions.
 Validation: Pearson Correlation and MAE.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This repository is licensed under the MIT License — see [LICENSE.md](LICENSE.md).
